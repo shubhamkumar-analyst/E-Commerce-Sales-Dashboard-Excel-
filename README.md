@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.Png)
 
 # E-Commerce-Sales-Dashboard-Excel-
 A sample dataset used for building the dashboard is included in this repository.
